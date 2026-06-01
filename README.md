@@ -1,0 +1,2 @@
+# OMVIPENKS
+Trading bot
